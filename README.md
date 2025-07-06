@@ -3,7 +3,6 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://en.cppreference.com/w/)
 [![Status](https://img.shields.io/badge/Project-Completed-brightgreen.svg)](#)
-[![Built With Love](https://img.shields.io/badge/Built%20with-C%2B%2B%20-blueviolet)](#)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)](https://github.com/yourusername/CabBookingSystem/issues)
 
 ## 📑 Features
